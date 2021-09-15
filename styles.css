@@ -85,3 +85,8 @@
         height: 100px;
     }
 }
+#forPullRequest {
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 100;
+}
